@@ -1,8 +1,0 @@
-HashFlow:
-  name: HashFlow
-  title: this is title
-  #url: https://github.com/HashFlowSY
-  #image_url: this is image
-  page: true
-  socials:
-    github: hashflowsy
